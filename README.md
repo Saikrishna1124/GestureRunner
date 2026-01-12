@@ -41,4 +41,7 @@ instead of a keyboard or mouse.
 pip install -r requirements.txt
 python debug_camera.py
 
+---
+
 <img width="771" height="629" alt="Screenshot 2026-01-12 213441" src="https://github.com/user-attachments/assets/9cf2fbab-df8e-4bbc-a518-de3bc1c9d985" />
+
