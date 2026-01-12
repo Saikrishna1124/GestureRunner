@@ -1,6 +1,4 @@
-﻿# GestureRunner
-
- # 🎮 GestureRunner
+# 🎮 GestureRunner
 
 GestureRunner is a camera-based hand gesture control system designed for
 endless runner games like **Temple Run** and **Subway Surfers**.
@@ -42,6 +40,5 @@ instead of a keyboard or mouse.
 ```bash
 pip install -r requirements.txt
 python debug_camera.py
-<img width="771" height="629" alt="image" src="https://github.com/user-attachments/assets/1766b68a-ddca-4072-ba4c-3d28911b85ae" />
 
-
+<img width="771" height="629" alt="Screenshot 2026-01-12 213441" src="https://github.com/user-attachments/assets/9cf2fbab-df8e-4bbc-a518-de3bc1c9d985" />
